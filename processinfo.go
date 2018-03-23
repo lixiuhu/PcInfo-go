@@ -32,6 +32,3 @@ func GetProcessStatus(ProcessName string) (status bool) {
 	return false
 }
 
-// func main() {
-// 	fmt.Println(GetProcessStatus("netbiosd"))
-// }
