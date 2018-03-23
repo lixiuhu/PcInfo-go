@@ -1,4 +1,4 @@
-package processinfo
+package  systeminfo
 
 import (
 	"github.com/mitchellh/go-ps"
