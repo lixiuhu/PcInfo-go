@@ -9,6 +9,6 @@ package main
 import "fmt"
 import "github.com/lixiuhu/systeminfo"
 func main() {
-	fmt.Println(systeminfo.GetProcessPid("netbiosd"))
+	fmt.Println(systeminfo.GetProcessPid("notepad.exe"))
 }
 ```
